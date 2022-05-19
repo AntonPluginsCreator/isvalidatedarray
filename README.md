@@ -4,7 +4,7 @@
 [![downloads](https://img.shields.io/npm/dw/isvalidatedarray)](https://www.npmjs.com/package/isvalidatedarray)
 [![license](https://img.shields.io/npm/l/isvalidatedarray)](https://github.com/AntonPluginsCreator/isvalidatedarray/blob/main/LICENSE)
 
-isValidatedArray function for array validation. Returning boolean value.
+A simple array validation function that returns a boolean value.
 
 ## Table of contents
 - [Example](#example)
