@@ -1,7 +1,7 @@
 {
   "name": "isvalidatedarray",
   "version": "1.0.1",
-  "description": "Simple package for check is validate array.",
+  "description": "A simple array validation function that returns a boolean value.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
