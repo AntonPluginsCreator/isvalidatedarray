@@ -1,9 +1,9 @@
 /*!
- * isvalidatedarray v1.0.0 (https://github.com/AntonPluginsCreator/isvalidatedarray)
+ * isvalidatedarray v1.0.1 (https://github.com/AntonPluginsCreator/isvalidatedarray)
  * Copyright (c) 2022 Anton Maklakov
  * Licensed under MIT (https://github.com/AntonPluginsCreator/isvalidatedarray/blob/main/LICENSE)
  */
-function isValidatedArray(
+export default function isValidatedArray(
   arr,
   config = { allowEmptyArray: false, allowEmptyObject: false }
 ) {
@@ -23,5 +23,3 @@ function isValidatedArray(
     return true;
   } else return false;
 }
-
-module.exports = isValidatedArray;
