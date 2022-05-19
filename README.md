@@ -1,11 +1,31 @@
 # isValidatedArray
-Simple package for check is validate array.
+[![npm-version](https://img.shields.io/npm/v/isvalidatedarray)](https://www.npmjs.com/package/isvalidatedarray)
+[![repo-size](https://img.shields.io/github/repo-size/AntonPluginsCreator/isvalidatedarray)](https://github.com/AntonPluginsCreator/isvalidatedarray)
+[![downloads](https://img.shields.io/npm/dw/isvalidatedarray)](https://www.npmjs.com/package/isvalidatedarray)
+[![license](https://img.shields.io/npm/l/isvalidatedarray)](https://github.com/AntonPluginsCreator/isvalidatedarray/blob/main/LICENSE)
+
+isValidatedArray function for array validation. Returning boolean value.
 
 ## Table of contents
+- [Example](#example)
 - [Installation](#installation)
 - [Start plugin](#start-plugin)
 - [Results](#results)
 - [License](#license)
+
+<div id='example'></div>
+
+## Example
+
+```javascript
+console.log(isValidatedArray([1,[2,3],'text']));
+```
+
+#### Console:
+
+```bash
+true
+```
 
 <div id='installation'></div>
 
